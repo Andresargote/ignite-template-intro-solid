@@ -1,6 +1,6 @@
 # Chapter II - Introducción a SOLID 💜
 
-## Objectivos:
+## Objetivos:
 
 01: Crear una aplicación de listado y guardado de usuarios utilizando los principios SOLID aprendidos.
 
